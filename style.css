@@ -7,6 +7,7 @@ p{
     font-weight: 500;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
+    color: #6c6c6c;
     
 }
 h1{
@@ -174,4 +175,22 @@ h2{
     padding: 10px 30px;
     border-radius: 7px;
     color: #fff;
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(8, 7, 17);
+}
+.id{
+    font-size: 40px;
+    margin-top: 20px;
+    font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Shippori Mincho', serif;
+}
+#hh{
+    position:relative;
+    bottom: 20px;
+
+
 }
